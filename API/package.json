@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-api",
+  "version": "1.0.0",
+  "description": "Backend en Mongo y Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lekanda/FullStackJS.git"
+  },
+  "author": "Andres Bernaola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lekanda/FullStackJS/issues"
+  },
+  "homepage": "https://github.com/Lekanda/FullStackJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
